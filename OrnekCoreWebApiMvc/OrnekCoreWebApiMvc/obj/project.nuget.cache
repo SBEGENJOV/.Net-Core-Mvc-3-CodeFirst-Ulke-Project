@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "W9IEMpxE5WRjNJwHEfqUrIxF37JLwwGMphO+Hy7nC8988p9qjmOi5roBNLRlAG/957C11sgxsgEQa3mXdkip3Q==",
+  "dgSpecHash": "cf/DxooOUdeLKkPnOg77UtHVxI7zlRTalRLUF3UiDfZJrAwe+IqV/bbeI+LcD+ia2oeadmydMrmCWjacCLP9yg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\S_BEGENJOV\\Documents\\GitHub\\Bright_calisma\\Web Api\\ASP Net CORE\\OrnekCoreWebApiMvc\\OrnekCoreWebApiMvc\\OrnekCoreWebApiMvc.csproj",
+  "projectFilePath": "C:\\Users\\S_BEGENJOV\\Documents\\GitHub\\.Net-Core-Mvc-3-CodeFirst-Ulke-Project\\OrnekCoreWebApiMvc\\OrnekCoreWebApiMvc\\OrnekCoreWebApiMvc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\S_BEGENJOV\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\S_BEGENJOV\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
